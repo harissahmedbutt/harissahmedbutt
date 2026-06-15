@@ -12,9 +12,9 @@
 
 <br/>
 
-Not a developer. Spent a decade being the person founders call when something is on fire and nobody else wants to touch it. The title was Chief of Staff. The job was whatever the company was missing.
+Not a developer. Spent a decade being the person founders call when something is on fire and nobody else wants to touch it. The job was whatever the company was missing.
 
-*This is me learning to build with Claude instead of code. Claude also wrote this README. I changed a few words and said ship it.*
+*This is me learning to build with Claude instead of code. Claude also wrote this README. I changed only a few words & shipped it.*
 
 <p align="center">
   <code>Careem</code> &nbsp;→&nbsp; <code>SWVL</code> &nbsp;→&nbsp; <code>Capiter</code> &nbsp;→&nbsp; <code>Unlayer</code>
@@ -61,6 +61,6 @@ Random things pushed here while I figure out what the new world engineer actuall
 
 <hr/>
 
-<p align="center">If something here is useful or you want to talk shop — <a href="https://linkedin.com/in/hariss-enthusiast"><b>find me on LinkedIn</b></a></p>
+<p align="center">If something here is useful or you want to talk — <a href="https://linkedin.com/in/hariss-enthusiast"><b>find me on LinkedIn</b></a></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:302b63,100:0f0c29&height=100&section=footer"/>
