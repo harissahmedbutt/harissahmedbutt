@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:1a1a2e&height=180&section=header&text=Operator.%20Learning%20to%20be%20something%20new.&fontSize=30&fontColor=f0f6fc&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:c9a24b,100:0a0a0a&height=180&section=header&text=Operator.%20Learning%20to%20be%20something%20new.&fontSize=30&fontColor=f6f2ea&fontAlignY=55"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/hariss-enthusiast">
-    <img src="https://img.shields.io/badge/LinkedIn-Hariss%20Ahmed%20Butt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hariss%20Ahmed%20Butt-c9a24b?style=for-the-badge&logo=linkedin&labelColor=0a0a0a&logoColor=c9a24b"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Dubai%2C%20UAE-0d1117?style=for-the-badge&logoColor=10b981"/>
+  <img src="https://img.shields.io/badge/Dubai%2C%20UAE-c9a24b?style=for-the-badge&labelColor=0a0a0a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/definitely%20not%20a%20developer-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/definitely%20not%20a%20developer-c9a24b?style=for-the-badge&labelColor=0a0a0a"/>
 </p>
 
 <br/>
@@ -63,4 +63,4 @@ Random things pushed here while I figure out what the new world engineer actuall
 
 <p align="center">If something here is useful or you want to talk — <a href="https://linkedin.com/in/hariss-enthusiast"><b>find me on LinkedIn</b></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:302b63,100:0f0c29&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:c9a24b,100:0a0a0a&height=100&section=footer"/>
