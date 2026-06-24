@@ -24,11 +24,9 @@ Not a developer. Spent a decade being the person founders call when something is
 
 <h3>Things I believe</h3>
 
-> "Incentives are the real manager. Get them right and the behavior manages itself."
-
-> "A leveraged person with agency outproduces a managed team. Every time."
-
-> "The question was never how many people you need. It's how much of the work actually requires a human."
+>"Effort is cheap. Judgment is the whole game."
+>"Companies run on incentives, not org charts."
+>"We're all training data now. Build accordingly."
 
 <hr/>
 
