@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:c9a24b,100:0a0a0a&height=180&section=header&text=Operator.%20Learning%20to%20be%20something%20new.&fontSize=30&fontColor=f6f2ea&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:c9a24b,100:0a0a0a&height=180&section=header&text=Operator.%20Learning%20to%20build.&fontSize=30&fontColor=f6f2ea&fontAlignY=55"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/hariss-enthusiast">
