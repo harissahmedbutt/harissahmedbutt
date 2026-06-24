@@ -25,7 +25,9 @@ Not a developer. Spent a decade being the person founders call when something is
 <h3>Things I believe</h3>
 
 >"Effort is cheap. Judgment is the whole game."
+
 >"Companies run on incentives, not org charts."
+
 >"We're all training data now. Build accordingly."
 
 <hr/>
