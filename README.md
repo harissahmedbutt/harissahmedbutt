@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:c9a24b,100:0a0a0a&height=180&section=header&text=Operator.%20Learning%20to%20build.&fontSize=30&fontColor=f6f2ea&fontAlignY=55"/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hariss-enthusiast">
+  <a href="https://linkedin.com/in/harissahmed">
     <img src="https://img.shields.io/badge/LinkedIn-Hariss%20Ahmed%20Butt-c9a24b?style=for-the-badge&logo=linkedin&labelColor=0a0a0a&logoColor=c9a24b"/>
   </a>
   &nbsp;
